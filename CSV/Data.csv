@@ -1,0 +1,5 @@
+PlayerName,DOB,Group,Laterality,Level,Average Speed (km/h),Average Speed Inside the OZ (km/h),Average Angle of Deviation (°),Average Reaction Time (s),No. of coll. w/h Ped R,No. of coll. w/h Ped L,No. of coll. w/h Ani R,No. of coll. w/h Ani L,Total coll. w/h Obstacles R ,Total coll. w/h Obstacles L ,Acceleration Button,Brake Button,Obstacle Hit,Obstacle Bubble Hit
+Tester1,021195,Depressed,Left handed,Level 1: Practice,71.12945,NaN,0.4845731,NaN,0,0,0,0,0,0,21,0,,
+,,,,,,,,,,,,,,,,,,
+Tester1,021195,Depressed,Left handed,Level 2: Practice,76.33095,41.46849,-0.5518641,0,0,0,0,0,0,0,10,0,,PedestrianL1PedestrianR2PedestrianR1
+

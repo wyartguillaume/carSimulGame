@@ -1,0 +1,15 @@
+PlayerName,DOB,Group,Laterality,Average Speed,Average Speed Inside the OZ,Average Angle of Deviation,Average Reaction Time,No. of coll. w/h Ped R,No. of coll. w/h Ped L,No. of coll. w/h Ani R,No. of coll. w/h Ani L,Total coll. w/h Obstacles R ,Total coll. w/h Obstacles L ,Acceleration Button,Brake Button,Obstacle Hit/Miss,Obstacle Bubble Hit/Miss
+Laloo,41556,Group A,Left handed,51.43369,29.3739,0.2619525,1.415525,0,0,0,0,0,0,31,0,PedestrianL1PedestrianR2,,PedestrianL1PedestrianL1PedestrianR2PedestrianR2PedestrianR2PedestrianR2AnimalCatR1AnimalCatR1PedestrianR1PedestrianR1,
+,,,,,,,,,,,,,,,,,
+Laloo,41556,Group A,Left handed,12.71566,NaN,2.137484,0.3547999,0,0,0,0,0,0,0,0,,,,
+,,,,,,,,,,,,,,,,,
+,,Group A,Left handed,52.39833,41.36403,-0.1413489,1.561796,0,0,0,0,0,0,36,0,PedestrianR1,,PedestrianL1PedestrianR2PedestrianR2AnimalCatR1PedestrianR1,
+,,,,,,,,,,,,,,,,,
+,,Group A,Left handed,35.02524,111.5322,7.317852,7.296998,0,0,0,0,0,0,12,0,PedestrianR1,,PedestrianR1,
+,,,,,,,,,,,,,,,,,
+,,Group A,Left handed,58.13008,24.63697,0.6599356,1.394465,0,0,0,0,0,0,39,0,PedestrianL1PedestrianR1,,,
+,,,,,,,,,,,,,,,,,
+,,Group A,Left handed,46.4825,31.1415,2.309024,1.194608,0,0,0,0,0,0,44,0,PedestrianL1PedestrianL1PedestrianL1PedestrianL1PedestrianL1,,PedestrianL1PedestrianR2PedestrianR2AnimalCatR1PedestrianR1,
+,,,,,,,,,,,,,,,,,
+,,Group A,Left handed,58.6914,77.55949,0.8738429,1.414126,0,0,0,0,0,0,22,0,,PedestrianL1PedestrianR2AnimalCatR1PedestrianR1
+
